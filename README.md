@@ -23,8 +23,7 @@
 ```python
 class MarceloSosa:
     """
-    Data Analyst & BI Engineer especializado en convertir
-    datos en estrategia de negocio con impacto medible.
+    Data Analyst & BI Engineer especializado en convertir datos en estrategia de negocio con impacto medible.
     """
     name       = "Marcelo Joaquin Sosa Candia"
     location   = "Lima, Perú 🇵🇪"
