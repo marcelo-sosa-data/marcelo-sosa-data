@@ -1,3 +1,6 @@
+<!-- github.com/marcelo-sosa-data — Profile README -->
+<!-- Crear repo con el mismo nombre que tu usuario: marcelo-sosa-data -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1a3a5c,100:0ea5e9&height=220&section=header&text=Marcelo%20Sosa%20Candia&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20AI%20Automation%20%7C%20Pricing%20Strategy&descAlignY=56&descSize=15&descColor=7dd3fc" width="100%"/>
