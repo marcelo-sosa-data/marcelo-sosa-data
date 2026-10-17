@@ -30,8 +30,8 @@ class MarceloSosa:
     education  = "Ingeniería Industrial — UPN | Diplomado Mejora Continua — CCL"
 
     experience = {
-        "FirstJob (Chile)"    : "Research & Data Analyst | Pricing Strategy | AI Automation",
-        "UPC Postgrado"       : "Process Intelligence | Bot NLP | ETL Architecture",
+        "FirstJob (Chile)"    : "Research Analyst | Pricing Strategy | AI Automation",
+        "UPC Postgrado"       : "Data Analytics | Bot NLP | ETL Architecture",
         "Pluz Energía (ENEL)" : "Operational Risk | SAP-MM | Inventory Analytics",
     }
 
