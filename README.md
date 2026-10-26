@@ -10,7 +10,7 @@
 
 </div>
 
-Ingeniero industrial y analista de datos. Me muevo entre procesos y datos: entiendo cómo opera un área, ordeno su información, la llevo a tableros que se usan en el día a día y automatizo lo repetitivo con Python, Power Platform y LLMs.
+Ingeniero industrial. Me muevo entre procesos y datos: entiendo cómo opera un área, ordeno su información, la llevo a dashboards que se usan en el día a día y automatizo lo repetitivo.
 
 ## Ahora
 
